@@ -16,5 +16,5 @@ print(google_trans.Ex2.CodeLang(target_language))
 print("\nСписок мов у консолі:")
 print(google_trans.Ex2.LanguageList("screen"))
 
-print("\nСписок мов з перекладом введеного тексту занесені у файл. \nВи можете переконатися це в файлі list_lang_transl")
+print("\nСписок мов з перекладом введеного тексту занесені у файл. \nВи можете переконатися це в файлі list_lang_transl_ex2")
 print(google_trans.Ex2.LanguageList("file", transtext))
