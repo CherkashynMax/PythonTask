@@ -1,0 +1,109 @@
+N	Language	ISO-639 code	Text
+--------------------------------------------------
+1	afrikaans	af		Hello Wêreld!
+2	albanian	sq		Përshendetje Botë!
+3	amharic		am		ሰላም ልዑል!
+4	arabic		ar		مرحبا بالعالم!
+5	armenian	hy		Բարեւ աշխարհ!
+6	azerbaijani	az		Salam Dünya!
+7	basque		eu		Kaixo Mundua!
+8	belarusian	be		Прывітанне Сусвет!
+9	bengali		bn		ওহে বিশ্ব!
+10	bosnian		bs		Zdravo svijete!
+11	bulgarian	bg		Здравей свят!
+12	catalan		ca		Hola món!
+13	cebuano		ceb		Kumusta kalibutan!
+14	chichewa	ny		Moni Dziko Lapansi!
+15	chinese (simplified)	zh-cn		你好世界！
+16	chinese (traditional)	zh-tw		你好世界！
+17	corsican	co		Hello World!
+18	croatian	hr		Pozdrav svijete!
+19	czech		cs		Ahoj světe!
+20	danish		da		Hej Verden!
+21	dutch		nl		Hallo Wereld!
+22	english		en		Hello world!
+23	esperanto	eo		Saluton mondo!
+24	estonian	et		Tere, Maailm!
+25	filipino	tl		Hello World!
+26	finnish		fi		Hei maailma!
+27	french		fr		Bonjour le monde!
+28	frisian		fy		Hallo wrâld!
+29	galician	gl		Ola mundo!
+30	georgian	ka		Გამარჯობა მსოფლიო!
+31	german		de		Hallo Welt!
+32	greek		el		Γειά σου Κόσμε!
+33	gujarati	gu		હેલો વર્લ્ડ!
+34	haitian creole	ht		Bonjou mond!
+35	hausa		ha		Sannu Duniya!
+36	hawaiian	haw		Aloha nui honua!
+37	hebrew		iw		שלום עולם!
+38	hebrew		he		שלום עולם!
+39	hindi		hi		हैलो वर्ल्ड!
+40	hmong		hmn		Nyob zoo ntiaj teb!
+41	hungarian	hu		Helló Világ!
+42	icelandic	is		Halló heimur!
+43	igbo		ig		Ndewo Ụwa!
+44	indonesian	id		Halo Dunia!
+45	irish		ga		Dia duit Domhanda!
+46	italian		it		Ciao mondo!
+47	japanese	ja		こんにちは世界！
+48	javanese	jw		Halo jagad!
+49	kannada		kn		ಹಲೋ ವರ್ಲ್ಡ್!
+50	kazakh		kk		Сәлем Әлем!
+51	khmer		km		សួស្តី​ពិភពលោក!
+52	korean		ko		안녕하세요 세상!
+53	kurdish (kurmanji)	ku		Hello World!
+54	kyrgyz		ky		Салам дүйнө!
+55	lao		lo		ສະ​ບາຍ​ດີ​ຊາວ​ໂລກ!
+56	latin		la		Salve orbis terrarum!
+57	latvian		lv		Sveika pasaule!
+58	lithuanian	lt		Labas pasauli!
+59	luxembourgish	lb		Moien Welt!
+60	macedonian	mk		Здраво свету!
+61	malagasy	mg		Hello World!
+62	malay		ms		Hai dunia!
+63	malayalam	ml		ഹലോ വേൾഡ്!
+64	maltese		mt		Hello dinja!
+65	maori		mi		Kia ora Te Ao!
+66	marathi		mr		हॅलो वर्ल्ड!
+67	mongolian	mn		Сайн уу ертөнц!
+68	myanmar (burmese)	my		မင်္ဂလာပါကမ္ဘာလောက!
+69	nepali		ne		नमस्कार संसार!
+70	norwegian	no		Hei Verden!
+71	odia		or		ନମସ୍କାର ବିଶ୍ୱବାସି!
+72	pashto		ps		سلام نړی!
+73	persian		fa		سلام دنیا!
+74	polish		pl		Witaj świecie!
+75	portuguese	pt		Olá Mundo!
+76	punjabi		pa		ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!
+77	romanian	ro		Salut Lume!
+78	russian		ru		Привет, мир!
+79	samoan		sm		Talofa lalolagi!
+80	scots gaelic	gd		Hàlo a Shaoghail!
+81	serbian		sr		Здраво Свете!
+82	sesotho		st		Lefatše Lumela!
+83	shona		sn		Mhoro Nyika!
+84	sindhi		sd		هيلو دنيا!
+85	sinhala		si		හෙලෝ වර්ල්ඩ්!
+86	slovak		sk		Ahoj svet!
+87	slovenian	sl		Pozdravljen, svet!
+88	somali		so		Salaan World!
+89	spanish		es		¡Hola Mundo!
+90	sundanese	su		Halo Dunya!
+91	swahili		sw		Salamu, Dunia!
+92	swedish		sv		Hej världen!
+93	tajik		tg		Салом Ҷаҳон!
+94	tamil		ta		வணக்கம் உலகம்!
+95	telugu		te		హలో వరల్డ్!
+96	thai		th		สวัสดีชาวโลก!
+97	turkish		tr		Selam Dünya!
+98	ukrainian	uk		Привіт Світ!
+99	urdu		ur		ہیلو دنیا!
+100	uyghur		ug		ياخشىمۇسىز دۇنيا!
+101	uzbek		uz		Salom Dunyo!
+102	vietnamese	vi		Chào thế giới!
+103	welsh		cy		Helo Byd!
+104	xhosa		xh		Molo Lizwe!
+105	yiddish		yi		העלא וועלט!
+106	yoruba		yo		Mo ki O Ile Aiye!
+107	zulu		zu		Sawubona Mhlaba!
