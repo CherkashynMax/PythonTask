@@ -1,0 +1,6 @@
+N	Language	ISO-639 code	Text
+--------------------------------------------------
+1	afrikaans	af		Hallo, ek is Maxim
+2	albanian	sq		Përshëndetje, unë jam Maxim
+3	amharic		am		ሰላም፣ እኔ ማክስም ነኝ
+4	arabic		ar		مرحبا، أنا مكسيم
